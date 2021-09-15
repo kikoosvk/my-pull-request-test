@@ -1,2 +1,3 @@
 my master change
+my new branch text
 my second master change
